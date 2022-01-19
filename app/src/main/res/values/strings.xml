@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CodingContest</string>
+    <string name="day_pass">DAY PASS</string>
+    <string name="hour_pass">HOUR PASS</string>
+    <string name="buy">BUY</string>
+    <string name="unit_price">Rp</string>
+    <string name="one_day_pass">1 DAY PASS</string>
+</resources>

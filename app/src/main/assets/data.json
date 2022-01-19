@@ -1,0 +1,56 @@
+{
+  "category" : [
+    {
+      "passType": 0,
+      "item": [
+        {
+          "type": 0,
+          "name": "1 DAY PASS",
+          "price": "2000",
+          "range": 1
+        },
+        {
+          "type": 0,
+          "name": "3 DAY PASS",
+          "price": "5000",
+          "range": 3
+        },
+        {
+          "type": 0,
+          "name": "7 DAY PASS",
+          "price": "10000",
+          "range": 7
+        }
+      ]
+    },
+    {
+      "passType": 1,
+      "item": [
+        {
+          "type": 0,
+          "name": "1 HOUR PASS",
+          "price": "500",
+          "range": 1
+        },
+        {
+          "type": 0,
+          "name": "3 HOUR PASS",
+          "price": "700",
+          "range": 3
+        },
+        {
+          "type": 0,
+          "name": "5 HOUR PASS",
+          "price": "850",
+          "range": 5
+        },
+        {
+          "type": 0,
+          "name": "8 HOUR PASS",
+          "price": "1000",
+          "range": 8
+        }
+      ]
+    }
+  ]
+}
